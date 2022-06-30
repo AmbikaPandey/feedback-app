@@ -49,7 +49,7 @@ const handleSubmit = (e) => {
         else{
             addFeedback(newFeedback)
         }
-        addFeedback(newFeedback)
+        
         setText('')
     }
 }
